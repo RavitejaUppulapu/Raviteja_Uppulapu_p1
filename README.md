@@ -26,3 +26,6 @@ Welcome to my portfolio website! This project showcases my skills, experiences, 
 ├── scripts.js          # JavaScript file for interactivity (optional)
 ├── images/             # Folder for storing images used on the website
 └── README.md           # This file, providing an overview of the project
+
+##📝 How to Use
+Clone the Repository:
