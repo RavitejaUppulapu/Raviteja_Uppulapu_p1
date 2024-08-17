@@ -51,6 +51,6 @@ cd portfolio-website
  **Feel free to reach out to me via the contact form on the website, or connect with me on social media:**
 
 - Email: your.email@example.com
-- LinkedIn: Raviteja Uppulapu
-- GitHub: yourusername
+- LinkedIn: raviteja-uppulapu-149354246
+- GitHub: RavitejaUppulapu
 ## Thank you for visiting my portfolio!
