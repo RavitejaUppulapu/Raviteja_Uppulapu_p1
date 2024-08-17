@@ -53,7 +53,4 @@ cd portfolio-website
 - Email: your.email@example.com
 - LinkedIn: Raviteja Uppulapu
 - GitHub: yourusername
-Thank you for visiting my portfolio!
-```bash
-You can customize the contact information, repository link, and any other details specific to your portfolio. This `README.md` file gives an overview of the project and guides users on how to view and use the website.
-```
+## Thank you for visiting my portfolio!
