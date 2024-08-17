@@ -30,12 +30,12 @@ Welcome to my portfolio website! This project showcases my skills, experiences, 
 ##📝 How to Use
 1 **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/RavitejaUppulapu/Raviteja_Uppulapu_portfolio
 ```
 2 **Navigate to the Project Directory:**
 
 ```bash
-cd portfolio-website
+cd Raviteja_Uppulapu_portfolio
 ```
 3 **Open index.html in Your Browser:**
 
