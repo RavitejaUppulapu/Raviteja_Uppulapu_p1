@@ -50,7 +50,7 @@ cd Raviteja_Uppulapu_portfolio
 ## 📞 Contact
  **Feel free to reach out to me via the contact form on the website, or connect with me on social media:**
 
-- Email: your.email@example.com
+- Email: ravitejauppulapu@example.com
 - LinkedIn: raviteja-uppulapu-149354246
 - GitHub: RavitejaUppulapu
 ## Thank you for visiting my portfolio!
